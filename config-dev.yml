@@ -1,2 +1,4 @@
 app:
   url: localhost
+config:
+  info: v1
