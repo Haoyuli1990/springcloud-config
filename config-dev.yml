@@ -1,4 +1,4 @@
 app:
   url: localhost
 config:
-  info: v2
+  info: v3
